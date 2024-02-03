@@ -1,0 +1,14 @@
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\bin\Debug\net6.0\ConsoleApps.exe
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\bin\Debug\net6.0\ConsoleApps.deps.json
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\bin\Debug\net6.0\ConsoleApps.runtimeconfig.json
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\bin\Debug\net6.0\ConsoleApps.dll
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\bin\Debug\net6.0\ConsoleApps.pdb
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.AssemblyInfo.cs
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.dll
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\refint\ConsoleApps.dll
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.pdb
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ConsoleApps.genruntimeconfig.cache
+C:\Users\SEOSSAI1\source\repos\c-sharp-course\Assignment_1\ConsoleApps\obj\Debug\net6.0\ref\ConsoleApps.dll
